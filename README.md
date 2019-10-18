@@ -10,4 +10,4 @@
 -Caterpillar is supported by adding the instance variable and accordingly Butterfly behaviour is implemented.
 - Animal count is calculted based on the instance of the object in the array. 
 - Few code has added to test the modal added.
-- Second language support added for few sample languages with the Map and JAX-RS Rest annotation is added for creating the REST Endpoint
+- Second language support added for few sample languages with the Map and JAX-RS Rest annotation is added for creating the REST Endpoint.
