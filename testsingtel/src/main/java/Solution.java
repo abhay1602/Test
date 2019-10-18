@@ -29,6 +29,10 @@ public class Solution {
         ButterFly butterFly = new ButterFly(false);
         butterFly.fly();
 
+        AnimalCount animalCount = new AnimalCount();
+        animalCount.count(AnimalCount.animals);
+        System.out.println(AnimalCount.flyCount+" "+AnimalCount.singCount+" "+AnimalCount.swimCount+" "+AnimalCount.walkCount);
+
     }
 
 }
