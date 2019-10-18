@@ -7,7 +7,7 @@
     void sing(){
         System.out.println("Rooster -Cock-a-doodle-doo");
     }
-    void fly(Chicken chicken){
+    void flyRooster(){
         chicken.fly();
     }
 
