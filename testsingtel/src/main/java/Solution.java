@@ -24,6 +24,11 @@ public class Solution {
         Clownfish claw = new Clownfish("small","joke");
         claw.sizeAndColor();
         claw.make();
+        ButterFly butterFlyCat = new ButterFly(true);
+        butterFlyCat.fly();
+        ButterFly butterFly = new ButterFly(false);
+        butterFly.fly();
+
     }
 
 }
